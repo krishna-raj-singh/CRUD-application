@@ -1,0 +1,27 @@
+body{
+    background-color: #3399ff;
+    color: #f2f0f2;
+    display: flex;
+    text-align: center;
+    font: 'Varela Round'; 
+}
+table{
+    width:60%;
+    margin:auto;
+}
+
+button{
+    background-color: #33ff66;
+    border: 2px solid #33ff66;
+    border-radius: 10px;
+    color: #f2f0f2;
+}
+
+#create-input{
+    border-radius: 10px;
+}
+
+.wrapper{
+    width: 90%;
+    margin:auto;
+}
